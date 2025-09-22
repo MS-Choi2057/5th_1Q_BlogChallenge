@@ -84,7 +84,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="https://github.com/yeomine">정우</a></td>
   <td><a href="https://github.com/ChooJG">제근</a></td>
   <td><a href="https://github.com/itisyijy">정윤</a></td>
-  <td><a href="https://github.com/">민석</a></td>
+  <td><a href="https://github.com/MS-Choi2057">민석</a></td>
   <td><a href="https://github.com/kimm00">도이</a></td>
 </tr>
 
@@ -93,7 +93,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="">정우 블로그</a></td>
   <td><a href="">제근 블로그</a></td>
   <td><a href="">정윤 블로그</a></td>
-  <td><a href="">민석 블로그</a></td>
+  <td><a href="https://blog.naver.com/beaprotagonist">민석 블로그</a></td>
   <td><a href="">도이 블로그</a></td>
 </tr>
 </table>
