@@ -67,7 +67,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
 <table align="center">
 <tr align="center">
   <td width="250"><img src="https://avatars.githubusercontent.com/dohyeoplim" width="90"></td>
-  <td width="250"><img src="https://avatars.githubusercontent.com/no-glass-otacku" width="90"></td>
+  <td width="250"><img src="https://via.placeholder.com/80x80?text=No+Img"></td>
   <td width="250"><img src="https://avatars.githubusercontent.com/hajinki" width="90"></td>
   <td width="250"><img src="https://avatars.githubusercontent.com/yeomine" width="90"></td>
 </tr>
@@ -99,7 +99,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
 <tr align="center">
   <td><a href="https://github.com/ChooJG">제근</a></td>
   <td><a href="https://github.com/itisyijy">정윤</a></td>
-  <td><a href="https://github.com/">민석</a></td>
+  <td><a href="https://github.com/MS-Choi2057">민석</a></td>
   <td><a href="https://github.com/kimm00">도이</a></td>
   <td><a href="https://github.com/shinh09">신형</a></td>
 </tr>
@@ -107,7 +107,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
 <tr align="center">
   <td><a href="">제근 블로그</a></td>
   <td><a href="https://velog.io/@itisyijy">정윤 블로그</a></td>
-  <td><a href="">민석 블로그</a></td>
+  <td><a href="https://blog.naver.com/beaprotagonist">민석 블로그</a></td>
   <td><a href="https://velog.io/@kimm00">도이 블로그</a></td>
   <td><a href="">신형 블로그</a></td>
 </tr>
